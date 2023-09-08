@@ -1,0 +1,22 @@
+/* Heading Syles Begin Here */
+h2 {
+color: blue;
+font-family: sans-serif 
+font: size 300%;
+background-color:orange;
+}
+
+h3{
+color: green;
+font : size 200%;
+background-color:pink;
+font-family: cursive; 
+}
+
+.custards{ 
+text-decoration: underline;
+} 
+
+.plain {
+list-style-type: none;
+}
